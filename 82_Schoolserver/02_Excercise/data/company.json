@@ -1,0 +1,31 @@
+{
+  "company":[
+    {
+      "name":"SwissRe",
+      "id":302,
+      "contact":"Mark Muster",
+      "phone": "0441234567",
+      "email":"info@swissre.test",
+      "url":"www.swissre.com",
+      "profession":"Informatiker*innen"
+    },
+    {
+      "id":302,
+      "name":"bildxzug",
+      "contact":"Reto Muster",
+      "phone":"0413456789",
+      "email":"info@bildxzug.test",
+      "url":"www.bildxzug.ch",
+      "profession":"Mediamatiker*innen"
+    },
+    {
+      "id":303,
+      "name":"Swisscom",
+      "contact":"Sofia Muster",
+      "phone":"0424817361",
+      "email":"info@swisscom.test",
+      "url":"www.swisscom.ch",
+      "profession":"Informatiker*innen"
+    }
+  ]
+}
